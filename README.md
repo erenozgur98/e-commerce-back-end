@@ -45,5 +45,5 @@ There is no installations to this project, you can see the repository here.
 
 See repository here: https://github.com/erenozgur98/e-commerce-back-end
 
-See deployed heroku here: https://git.heroku.com/fierce-reaches-33527.git
+See deployed heroku here: https://fierce-reaches-33527.herokuapp.com/
 
